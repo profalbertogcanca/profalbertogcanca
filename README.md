@@ -22,5 +22,6 @@ Imparto clase en ciclos formativos de **grado superior** y **grado medio** de la
 > En mis repositorios encontrarás ejemplos y plantillas de las prácticas de clase.
 > Si algo no funciona, abre una **issue** describiendo el problema.
 ## Contacto
-:email: [prof.albertocanca@gmail.com](mailto: prof.albertocanca@gmail.com)
-:school: IES Alixar · Castilleja de la Cuesta (Sevilla)
+
+- :email: <prof.albertocanca@gmail.com>
+- :school: IES Alixar · Castilleja de la Cuesta (Sevilla)
