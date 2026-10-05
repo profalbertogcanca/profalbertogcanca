@@ -6,7 +6,7 @@ Imparto clase en ciclos formativos de **grado superior** y **grado medio** de la
 - :handshake: Coordinador de **formación dual** del ciclo DAW: conecto al alumnado con las empresas
 - :hammer_and_wrench: Desarrollo aplicaciones web full-stack en mis proyectos personales
 - :books: Preparo materiales didácticos sobre despliegue, documentación y control de versiones
-- :globe_with_meridians: Mi web: [albertocanca.es](https://albertocanca.es)
+
 ## Tecnologías
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
